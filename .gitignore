@@ -1,0 +1,9 @@
+/_release
+/test_files
+/venv
+/__pycache__
+/.idea
+/.git
+/dist
+/build
+*.spec
